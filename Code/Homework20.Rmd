@@ -1,0 +1,12 @@
+---
+title: "Homework-20"
+output: html_notebook
+---
+
+```{r}
+rm(list = ls())
+library(dplyr)
+library(ggplot2)
+library(here)
+```
+
